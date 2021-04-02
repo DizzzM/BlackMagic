@@ -1,0 +1,7 @@
+D:\Dimo0on\Лаби\ОП\2 семестр\BlackMagic\bin\Debug\BlackMagic.exe.config
+D:\Dimo0on\Лаби\ОП\2 семестр\BlackMagic\bin\Debug\BlackMagic.exe
+D:\Dimo0on\Лаби\ОП\2 семестр\BlackMagic\bin\Debug\BlackMagic.pdb
+D:\Dimo0on\Лаби\ОП\2 семестр\BlackMagic\obj\Debug\BlackMagic.csprojAssemblyReference.cache
+D:\Dimo0on\Лаби\ОП\2 семестр\BlackMagic\obj\Debug\BlackMagic.csproj.CoreCompileInputs.cache
+D:\Dimo0on\Лаби\ОП\2 семестр\BlackMagic\obj\Debug\BlackMagic.exe
+D:\Dimo0on\Лаби\ОП\2 семестр\BlackMagic\obj\Debug\BlackMagic.pdb
