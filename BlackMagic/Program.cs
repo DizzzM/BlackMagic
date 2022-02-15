@@ -28,7 +28,7 @@ namespace BlackMagic
         {
             Console.Clear();
             Console.WriteLine($"Your symbol is {Chosen}"+
-                "\nCreated by Dmitriev Union)");
+                "\nCreated by DizzzM)");
         }
         static void Main(string[] args)
         {
